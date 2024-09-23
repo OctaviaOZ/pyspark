@@ -1,5 +1,3 @@
-# Data Engineer Assignment
-
 This repository contains the code for a data processing task. 
 
 ## Solution description
@@ -40,7 +38,7 @@ Shows intermediate and final DataFrames.
 Displays the schema.
 
 
-## Python Code `data_enginneer_assigment.py`:
+## Python Code `data_enginneer.py`:
 
 An implementation of the data processing tasks mentioned in the task description. Here's an overview of the code:
 
